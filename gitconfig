@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = langner.claudia1802@gmail.com
+	name = Claudia Langner
